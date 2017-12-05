@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">popupwindowDemo</string>
+    <string name="action_settings">更多</string>
+    <string name="select_1">选择1</string>
+    <string name="select_2">选择2</string>
+    <string name="select_3">选择3</string>
+</resources>

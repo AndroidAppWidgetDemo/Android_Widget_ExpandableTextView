@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- ExpandableTextView-->
+    <declare-styleable name="ExpandableTextView">
+        <!-- 文字大小 -->
+        <attr name="expandable_textsize" format="dimension" />
+        <!-- 文字颜色 -->
+        <attr name="expandable_textcolor" format="color" />
+        <!-- 收起时，显示几行 -->
+        <attr name="expandable_text_collapselines" format="integer" />
+        <!-- 收起时，小于宽的值 -->
+        <attr name="expandable_margin_horizontal" format="dimension" />
+        <!-- 收起时，是否可点击 -->
+        <attr name="expandable_btn_clickable" format="boolean" />
+    </declare-styleable>
+
+</resources>
